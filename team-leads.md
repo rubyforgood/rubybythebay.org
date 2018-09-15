@@ -3,54 +3,54 @@ layout: page
 ---
 
 ### Team Lead Guide
-So you’re considering leading a team for Ruby for Good 2018. You’re probably wondering what the heck that means. We’ve assembled some info on 1) what you can expect, 2) what we’ll expect from you, and 3) how to actually go about signing up.
+So you’re considering leading a team for Ruby by the Bay 2019. You’re probably wondering what the heck that means. We’ve assembled some info on 1) what you can expect, 2) what we’ll expect from you, and 3) how to actually go about signing up.
 
-We’ll start with the tl;dr – **Bottom line: Being a Ruby for Good Team Lead means making a 10-week commitment to lead and deliver an open source project—6 weeks prepping before the event, and 4 weeks of follow up after the event.**
+We’ll start with the tl;dr – **Bottom line: Being a Ruby by the Bay Team Lead means making a 10-week commitment to lead and deliver an open source project—6 weeks prepping before the event, and 4 weeks of follow up after the event.**
 
 Now for the details…
 
 
 #### What Does It Mean To Lead A Team?
 
-As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Ruby for Good organizers, pitching your project to Ruby for Good attendees, leading your team at the event on June 7-10, and then seeing the project through to completion.
+As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Ruby by the Bay organizers, pitching your project to Ruby by the Bay attendees, leading your team at the event on June 7-10, and then seeing the project through to completion.
 
 #### What we expect from team leads:
 
-###### Week 1 (April 29-May 5)
-* Attend an all-hands google hangout for 2018 team leads
+###### Week 1
+* Attend an all-hands google hangout for 2019 team leads
 * After your organizer writes an introduction email, reach out to stakeholder via email to introduce yourself
 * Research your organization and familiarize yourself with their business problems. Begin to understand the organization and their needs.
 
-###### Week 2 (May 6-12)
+###### Week 2
 * Connect face-to-face with stakeholder—skype or google hangout is okay; meeting in person when possible is even better! Meet ‘n greet, have a conversation about the technical capability of the organization, the project they had in mind, specific project requirements, nice-to-haves, both yours and the organization’s expectations, etc.
 * Connect with your organizer to provide update on project status
 
-###### Week 3 (May 13-19)
+###### Week 3
 * Communicate with your stakeholder to drill down on project requirements, as necessary. If not needed, reach out to them anyway and let them know you’re continuing to think about their project.
 * Connect with your organizer to provide update on project status
 
-###### Week 4 (May 20-26)
+###### Week 4
 * Connect face-to-face with stakeholder for SECOND time, tell them where you are in solving their business problem.
 * Brainstorm newbie tasks for your project.
 * Connect with your organizer to provide update on project status.
 
-###### Week 5 (May 27-June 2)
+###### Week 5
 * Create a readme in the rubyforgood github repo we have created for your project. This readme should give information about the organization and what we will be building for them. A good example readme can be seen [here](https://github.com/rubyforgood/habitat_humanity/).
-* Attend all-hands google hangout for 2018 team leads – a final check in to get your questions answered before the official event happens in one week.
+* Attend all-hands google hangout for 2019 team leads – a final check in to get your questions answered before the official event happens in one week.
 * Connect with your organizer to provide update on project status, as necessary.
 
-###### Week 6 (June 3-9)
-* Attend a team lead and stakeholder bbq on June 6.
-* Ruby for Good 2018 – June 7-10
-* Pitch your project to Ruby for Good attendees on opening night (5pm sharp): provide a brief intro to the organization, to the project, ask for specific technical skills if needed, communicate your team’s goals if you feel strongly about it (examples: deploy by end of event, emphasize team learning, master new gems, mandate pairing for all coding, explore new front end technologies, etc.)
+###### Week 6
+* Attend a team lead and stakeholder bbq day before the event
+* Ruby by the Bay 2019 begins!
+* Pitch your project to Ruby by the Bay attendees on opening night (5pm sharp): provide a brief intro to the organization, to the project, ask for specific technical skills if needed, communicate your team’s goals if you feel strongly about it (examples: deploy by end of event, emphasize team learning, master new gems, mandate pairing for all coding, explore new front end technologies, etc.)
 * Set team goals with your team. See above for inspiration.
 * Lead the team during the event.
 
-###### Week 7 (June 10-16)
+###### Week 7
 * Make plan to deploy with organizer.
-* Note that about 20% of our projects finish during the event—and we’re happy about that. We don’t want you or your team burning yourselves out. Ruby for Good is as much about building community as it is about doing good. If you work late into the evenings, you miss out on playing board games and werewolf and we want to see your face during these social times!
+* Note that about 20% of our projects finish during the event—and we’re happy about that. We don’t want you or your team burning yourselves out. Ruby by the Bay is as much about building community as it is about doing good. If you work late into the evenings, you miss out on playing board games and werewolf and we want to see your face during these social times!
 
-###### Week 8-10 (Jun 16-July 7)
+###### Week 8
 * Connect with your organizer to update them on status.
 * Deploy; project will be finished and delivered.
 * Receive feedback on your mad team leading skillz.
@@ -75,4 +75,3 @@ As a team lead you will be connecting with a partner organization that has a non
 
 ##### Interested in Leading a Team?
 Message an organizer on slack or send us an email at [{{ site.data.constants.contact_email }}](mailto:{{ site.data.constants.contact_email }})
-

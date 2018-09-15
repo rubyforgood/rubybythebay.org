@@ -1,21 +1,21 @@
 ---
 layout: page
 ---
-### Attending Ruby for Good
+### Attending Ruby by the Bay
 
-Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2018 the event will take place in Washington, DC at [Georgetown University](https://georgetown.edu/). Participants will stay in on-site dorms with hacking and socializing takes place in communal areas. Join us June 7-10, 2018 for the fun of giving back!
+Ruby by the Bay is an annual event based out of the SF bay area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2019 the event will take place in Bodega Bay at the UC Davis Marine Laboratory. Participants will stay in on-site housing with coding and socializing taking place in communal areas. Join us March 2019 for the fun of giving back!
 
-###### How Does Ruby for Good Work?
+###### How Does Ruby by the Bay Work?
 
-The organizers of Ruby for Good work year round contacting and working with non-profits to find projects that are both within the scope of Ruby for Good and helpful to non-profit organizations and individuals. In 2018 projects are focused around issues affecting our communities.
+If you've attended [Ruby for Good](https://rubyforgood.org), Ruby by the Bay is the west coast edition of the event.  The organizers of Ruby by the Bay work year round contacting and working with non-profits to find projects that are both within the scope of Ruby by the Bay and helpful to non-profit organizations and individuals. In 2019 projects are focused around issues affecting our communities.
 
 This is an event for people of *all* skill levels so even if you are new, don't let that prevent you from contributing! Attendees self-select into projects that are meaningful to them and the fun begins! Most projects have a need for a variety of skills including both developers and designers. You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)
 
 ###### That Sounds Awesome, Tell Me More!
 
-[Here is the schedule for 2018.](/2018.html)
+[Here is the tentative schedule for 2019.](/2019.html)
 
-Here is what actual attendees have written about the event:
+Here is what actual attendees have written about Ruby for Good (the original DC event):
 
 * [http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/](http://technology.customink.com/blog/2016/06/23/ruby-for-good-2016/)
 * [https://blog.codeship.com/how-to-inspire-community-in-programming/](https://blog.codeship.com/how-to-inspire-community-in-programming/)
@@ -30,13 +30,13 @@ Here is what actual attendees have written about the event:
 
 ###### Interested in Leading a Team?
 
-During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late March with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. If you want to know what it will be like to lead a team this year, [read our team lead guide](/team-leads.html). For an in-depth look at what it's like to lead a team, check out Brandon Rice's [blog](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/). If you're not sure and want to talk about it with an organizer? Drop us a [note](mailto:{{ site.data.constants.contact_email }}).
+During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late January with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby by the Bay. Setup includes creating a github repo under the Ruby for Good github, filing issues, and making some technology suggestions. If you want to know what it will be like to lead a team this year, [read our team lead guide](/team-leads.html). For an in-depth look at what it's like to lead a team, check out Brandon Rice's [blog](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/). If you're not sure and want to talk about it with an organizer? Drop us a [note](mailto:{{ site.data.constants.contact_email }}).
 
 Also — if you have a project in mind that you’d like to lead, [suggest a project](/submit-project.html) to work on!
 
 ###### Registering
 
-Registration opens on Feb 8th, 2018!
+Ticket sale dates will be announced through our mailing list. Please join if you are interested! We are particularly interested in creating a diverse and inclusive space, and especially encourage those underrepresented in tech to join the event.
 
 <!--Tickets go on sale April 4, 2016.
 
