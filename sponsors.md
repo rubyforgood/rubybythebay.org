@@ -4,14 +4,15 @@ layout: page
 
 ### Sponsors
 
-We're very proud to again be organizing the Ruby for Good conference. This conference, to our knowledge, is the first and currently only conference of this kind ever. We are bringing together Rubyists to learn, teach, and work on civic and open source projects.
-
+Ruby for Good began in 2013, and we're very proud to be organizing the Ruby by the Bay edition. This conference, to our knowledge, is the first and currently only conference of this kind ever. We are bringing together Rubyists to learn, teach, and work on civic and open source projects.
 
 ###### Why Sponsor?
 
 By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Ruby community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Ruby community. Plus, we are a 501(c)3 non-profit!
 
-<section class="row sponsor-levels">
+Sponsorship levels will be added in the coming weeks.
+
+<!-- <section class="row sponsor-levels">
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Silver**
@@ -136,4 +137,4 @@ $1 – $500
 
 </div>
 </div>
-</section>
+</section> -->

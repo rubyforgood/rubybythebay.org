@@ -1,6 +1,6 @@
-# rubyforgood.org
+# rubybythebay.org
 
-This repository holds [rubyforgood.org](http://rubyforgood.org), a site built on [GitHub Pages](https://pages.github.com/).
+This repository holds [rubybythebay.org](http://rubybythebay.org), a site built on [GitHub Pages](https://pages.github.com/).
 
 ## Running Locally for Development
 
