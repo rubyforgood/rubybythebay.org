@@ -202,7 +202,7 @@ hr.white { border-color: #F3AE9B; }
   background: #fff; }
 .navigation-toggle .icon-bar+.icon-bar { margin-top: 4px; }
 
-#stat, #newsletter { background: url('../img/stat-bg.jpg') center bottom no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
+#stat, #newsletter { background: url('../img/header-bg.jpg') center bottom no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
 
 #stat .stat-info { font-size: 17pt; }
 #stat .stat { font-size: 100px; color: #fe4918; }

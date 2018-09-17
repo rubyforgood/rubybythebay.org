@@ -3,14 +3,13 @@ layout: base
 ---
 {% assign c = site.data.constants %}
 <section id="hero" class="light color">
-  <div id="ribbon"> Sold Out! </div>
+  <!-- <div id="ribbon"> Sold Out! </div> -->
   <div class="overlay color"></div>
   <div class="container">
     <nav class="navigation navigation-social">
       <ul class="navigation-bar">
         <li><a href="https://twitter.com/rubyforgood"><span class="fa fa-twitter"></span></a></li>
         <li><a href="https://github.com/rubyforgood"><span class="fa fa-github"></span></a></li>
-        <li><a href="https://www.meetup.com/Arlington-Ruby/"><span class="fa fa-smile-o"></span></a></li>
         <li><a href="https://t.co/kUtI3lnpW1"><span class="fa fa-slack"></span></a></li>
       </ul>
     </nav>
@@ -20,17 +19,19 @@ layout: base
         <hr /><span>{{ site.data.constants.dates.start}} - {{ site.data.constants.dates.end}}, {{ site.data.constants.dates.year}}</span><hr />
 
       </div>
-      <div class="hero-big">RUBY<wbr><span class="hero-big-em">FOR</span><wbr>GOOD</div>
+      <div class="hero-big">
+        RUBY<wbr><span class="hero-normal">by the</span><wbr>BAY
+      </div>
       <div class="hero-normal">
         Dedicated to making the world <strong>gooder</strong>
       </div>
     </div>
-    <div class="hero-bottom center">
+    <!-- <div class="hero-bottom center">
 
       <a href="https://ti.to/codeforgood/rubyforgood" class="btn btn-huge btn-3d"><i class="fa fa-heart fa-1x"></i> Sign Up</a>
       <a href="https://www.customink.com/fundraising/rfg-2018" class="btn btn-huge btn-3d">Buy a Supporter Shirt</a>
 
-    </div>
+    </div> -->
   </div>
 </section>
 <!-- End Hero Section -->
@@ -63,15 +64,16 @@ layout: base
               <img class="img-responsive" src="/assets/img/2016photo.jpg" alt="ruby-for-good-2014" />
             </div>
             <div class="col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInRight" data-delay="500">
-              <h6>About Ruby for Good</h6>
+              <h6>About Ruby by the Bay</h6>
               <p>
-                Ruby for Good is an annual event based out of the DC-metro area
+                Ruby by the Bay is the west coast edition of Ruby for Good,
+                an annual event based out of the DC-metro area
                 where Ruby programmers from all over the globe get together for a
-                long weekend to build projects that help our communities. In 2018
-                the event will take place in Washington DC at  <a
-                href="https://georgetown.edu/">Georgetown University</a>. Participants stay in
+                long weekend to build projects that help our communities. In 2019
+                the event will take place in Bodega Bay at the UC Davis Marine Laboratory.
+                Participants stay in
                 on-site dorms; hacking and socializing takes place in communal areas.
-                Join us this year just for the fun of giving back! Questions? Drop us
+                Join us this year for the fun of giving back! Questions? Drop us
                 a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
               </p>
             </div>
@@ -80,13 +82,13 @@ layout: base
 
         <div class="tab-pane fade" id="aboutDetails">
           <article class="row">
-            <div class="col-md-5 col-sm-5 animated hiding" data-animation="fadeInLeft" data-delay="500">
+            <!-- <div class="col-md-5 col-sm-5 animated hiding" data-animation="fadeInLeft" data-delay="500">
               <img class="img-responsive" src="assets/img/about-placeholder-starbucks.jpg" alt="starbuck" />
-            </div>
+            </div> -->
             <div class="col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInRight" data-delay="500">
               <h6>Down to Business</h6>
               <p>
-                Projects in 2018 will be focused on issues facing our local communities. We have some great projects lined up but we need more! We need YOU to help us find other great projects - suggest a project below! Project details, including available teams to join, will be announced to attendees around the beginning of May. Team leads will get information on projects at the end of March.
+                Projects in 2019 will be focused on issues facing our local communities. We have some great projects lined up but we need more! We need YOU to help us find other great projects - suggest a project below! Project details, including available teams to join, will be announced to attendees around the beginning of February. Team leads will get information on projects at the beginning of January.
               </p>
 
                 <a class="btn btn-sm btn-primary" href="/submit-project.html">Suggest a Project</a>
@@ -139,7 +141,7 @@ layout: base
   <div class="container">
     <article class="article-big animated hiding" data-animation="fadeInDown" data-delay="0">
       <h5>Newsletter <span class="highlight">Signup</span></h5>
-      <p>Get the latest updates, early notice for <span class="highlight">event registrations</span>, and other Ruby for Good news!</p>
+      <p>Get the latest updates, early notice for <span class="highlight">event registrations</span>, and all other Ruby for Good news!</p>
         <form action="https://rubyforgood.us8.list-manage.com/subscribe/post?u=2eec95e401f96687d14f4af24&amp;id=65f831bb77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form validate" target="_blank" novalidate>
           <div id="mc_embed_signup_scroll" class="">
             <div class="mc-field-group form-group form-inline">
@@ -211,7 +213,7 @@ layout: base
         <h5>What you <span class="highlight">need</span> to know</h5>
         <p class="big">
           Bring yourself, your laptop, and whatever you plan on wearing. Lodging consists of shared dorm rooms (what better way to get to know new people!) complete with linens, pillows, blankets and towels. We'll also be supplying food, drinks, and fun atmosphere.
-          For a more in-depth run down of the weekend, check out our <a href="/attend.html">attendee information</a> page. More questions? Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+          For a more in-depth run down of the weekend, check out our <a href="/attend.html">attendee information</a> page and <a href="/coc">Code of Conduct</a>. More questions? Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
         </p>
       </article>
     </section>
@@ -224,7 +226,7 @@ layout: base
             What does it cost?
           </div>
           <p>
-          {{ site.data.constants.cost }} all-inclusive. Registration includes room, linens, pillows,
+          {{ site.data.constants.cost }}, all-inclusive. Registration includes room, linens, pillows,
           towels, swag, and three all-you-can-eat meals a day. We are a break-even operation; all funds go toward paying for the event!
           </p>
 
@@ -251,7 +253,6 @@ layout: base
   <div class="container">
     <div class="icon-wrap"><span class="icon icon-active icon-badges-votes-13"></span></div>
     <h3>Our Organizers</h3>
-    <div class="sub-title">The folks you can blame for Ruby for Good</div>
     <br />
     <br />
     <section class="row">
@@ -853,9 +854,6 @@ layout: base
         <ul itemscope="" itemtype="http://schema.org/PostalAddress">
           <li itemprop="address"><i class="fa fa-map-marker highlight"></i>{{ site.data.constants.address }}</li>
           <li itemprop="email"><i class="fa fa-envelope highlight"></i>{{ site.data.constants.contact_email }}</li>
-          <!--
-            <li><i class="fa fa-clock-o highlight"></i><a href="/2017.html">2017 Event Information</a></li>
-          -->
         </ul>
       </div>
     </div>
@@ -967,10 +965,12 @@ layout: base
         <h5> Want to participate but need some help?  </h5>
         <p>
 
-          The scholarship application window has closed. If you applied for a scholarship but haven't heard anything please <a href="mailto:{{ site.data.constants.contact_email }}?subject=Scholarship" ><font color="black">let us know!</font></a>
+          <!-- The scholarship application window has closed. If you applied for a scholarship but haven't heard anything please <a href="mailto:{{ site.data.constants.contact_email }}?subject=Scholarship" ><font color="black">let us know!</font></a> -->
 
 
-        <!-- Ruby For Good is providing scholarship tickets to allow more people the opportunity to participate. The deadline to apply for a scholarship is April 19th and everyone who applies will be notified after the 20th of April. Click the link below to submit your request! -->
+        Ruby by the Bay offers scholarship tickets to give people underrepresented in tech the opportunity to participate.
+        Application information will be posted in the next few weeks.
+        <!-- The deadline to apply for a scholarship is April 19th and everyone who applies will be notified after the 20th of April. Click the link below to submit your request! -->
 
         <br/>
         <br/>
@@ -992,7 +992,7 @@ layout: base
 
     <div class="sub-title">The folks that make the good possible</div>
     <br/>
-    <hr>
+    <!-- <hr>
     <div class="row">
       <ul class="list-ruby list-inline">
         <li><a href="https://www.mapbox.com/"><img src="assets/img/sponsor/mapbox-logo-color.svg" alt="sponsor-1"></a></li>
@@ -1021,7 +1021,7 @@ layout: base
       </ul>
     </div>
 
-    <hr>
+    <hr> -->
     <div class="row">
       <div class="btn-wrapper">
         <a href="/sponsors.html" class="btn btn-sm btn-primary">Become a Sponsor</a>
@@ -1032,4 +1032,3 @@ layout: base
 
 <!-- End Price Section -->
 <!-- End Map Section -->
-
