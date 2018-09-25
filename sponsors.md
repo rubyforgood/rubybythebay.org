@@ -10,21 +10,19 @@ Ruby for Good began in 2013, and we're very proud to be organizing the Ruby by t
 
 By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Ruby community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Ruby community. Plus, we are a 501(c)3 non-profit!
 
-Sponsorship levels will be added in the coming weeks.
-
-<!-- <section class="row sponsor-levels">
+<section class="row sponsor-levels">
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Silver**
-$1,500
+$2,000
 
 <div class="btn-wrapper">
-<a href="mailto:{{ site.data.constants.contact_email }}?subject=Silver Sponsorship" class="btn btn-sm btn-primary">4 Available</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Silver Sponsorship" class="btn btn-sm btn-primary">5 Available</a>
 </div>
 
 - Small logo on the conference homepage
-- Listed on the website
-- Mention on Twitter
+- Thanks on Twitter
+- Mention at welcome announcements and on-site job fair
 - Option to pass out swag at the event
 - One ticket to attend the conference
 
@@ -32,36 +30,38 @@ $1,500
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Gold**
-$3,000
+$4,000
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Gold Sponsorship" class="btn btn-sm btn-primary">3 Available</a>
 </div>
 
-- Large logo on the conference homepage.
-- Listed on the website
-- Mention on Twitter
+- Large logo on the conference homepage
+- Thanks on Twitter
+- Mention at welcome announcements and on-site job fair
 - Option to pass out swag at the event
 - Can suggest 1 projects to be worked on at the event
+- Opening song dedicated to your company at one of the three karaoke evenings
 - Two tickets to attend the conference
 
 </div>
 <div class="col-md-3 col-sm-3" markdown="1">
 
 ###### **Platinum**
-$4,500
+$8,000
 
 <div class="btn-wrapper">
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Platinum Sponsorship" class="btn btn-sm btn-primary">2 Available</a>
 </div>
 
+- Large logo on the conference homepage
+- Thanks on Twitter
 - Name and URL included in email blasts to attendees
 - Recognition in the welcome announcements
-- At one mealtime (breakfasts, lunches or dinner) on each of the three days we will give a shout out to your company and what you do.
-- Can suggest 2 projects to be worked on at the event
-- Listed on the website
-- Mention on Twitter
+- Recognition at on-site job fair introduction, including 30sec pitch during introduction
+- At one mealtime (breakfast, lunch, or dinner) on each of the three days we will give a shout out to your company and what you do
 - Option to pass out swag at the event
+- Can suggest 2 projects to be worked on at the event
 - Three tickets to attend the conference
 
 </div>
@@ -74,20 +74,18 @@ Contact us!
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Ruby Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
 </div>
 
-- Let us know what you're looking for
-- We'll customize a package for you
+Let us know what you're looking for - we'll customize a package for you
 - Name and URL included in email blasts to attendees
-- Recognition in the welcome announcements
+- Recognition in the welcome announcements, including brief description of what you do
 - All our partner non-profits will express their thanks for your company on social media
 - Can suggest 3 projects to be worked on at the event
-- Hugs and goodwill from the conference organizers for life
-- The opportunity to address the attendees on day two
-- Four included tickets for the event
+- Exclusive opportunity to address the attendees
+- Four tickets to attend the conference
 
 </div>
 </section>
 
-<section class="row sponsor-levels">
+<!-- <section class="row sponsor-levels">
 <div class="col-md-3 col-sm-3">
 <div class="speaker-item animated fadeInUp visible" markdown="1">
 
