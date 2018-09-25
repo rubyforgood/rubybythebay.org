@@ -158,7 +158,7 @@ During registration we ask if there's anything else you'd like us to know - indi
 
 ##### How do room assignments work?
 
-Most of the rooming is double occupancy. After registration closes, we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+Most of the rooming is double occupancy single beds. There are also a few rooms with a single queen sized bed, and a women-only bunkhouse. At registration, you will be given the opportunity to select the type of room you'd prefer, and if you have a specific roommate preference. After registration closes, for those who picked the standard double occupancy room, we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.  Roommate requests must be mutual to be considered.
 
 ##### Do you have a code of conduct?
 
