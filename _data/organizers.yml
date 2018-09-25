@@ -1,7 +1,7 @@
 ---
-
 - name: Sean Marcia
   title: Founder
+  pronouns:
   about: Came up with Ruby for Good, and it would not be possible without his hard work.
   twitter: seanmarcia
   github: SeanMarcia
@@ -9,6 +9,28 @@
 - name: Jennifer Tu
   about: Does good things. Like return your puppy after it has been stolen. By her.
   title: Organizer
+  pronouns: she/her
   twitter: jtu
   github: jtu0
   img: assets/img/gallery/jennifer_thumbnail.jpg
+- name: Stephanie Wilkinson
+  title: Organizer
+  pronouns: she/her
+  about: Director of Systems Architecture by day, making the world better always.
+  twitter: stephanieblack
+  github: stephaniewilkinson
+  img: assets/img/gallery/stephanie_thumbnail.jpeg
+- name: Kara Louie
+  title: Organizer
+  pronouns: she/her
+  about: Knitter and teacher bringing order to your backend.
+  twitter: kahlouie
+  github:
+  img: assets/img/gallery/kara_thumbnail.jpeg
+- name: Mannah Kallon
+  pronouns:
+  title: Organizer
+  about: Good at math, games, and gooding.
+  twitter: MannahKallon
+  github: kenikall
+  img: assets/img/gallery/mannah_thumbnail.png
