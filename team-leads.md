@@ -16,41 +16,41 @@ As a team lead you will be connecting with a partner organization that has a non
 
 #### What we expect from team leads:
 
-###### Week 1
+###### Week 1 (Feb 4 - 10)
 * Attend an all-hands google hangout for 2019 team leads
 * After your organizer writes an introduction email, reach out to stakeholder via email to introduce yourself
 * Research your organization and familiarize yourself with their business problems. Begin to understand the organization and their needs.
 
-###### Week 2
+###### Week 2 (Feb 11 - 17)
 * Connect face-to-face with stakeholder—skype or google hangout is okay; meeting in person when possible is even better! Meet ‘n greet, have a conversation about the technical capability of the organization, the project they had in mind, specific project requirements, nice-to-haves, both yours and the organization’s expectations, etc.
 * Connect with your organizer to provide update on project status
 
-###### Week 3
+###### Week 3 (Feb 18 - 24)
 * Communicate with your stakeholder to drill down on project requirements, as necessary. If not needed, reach out to them anyway and let them know you’re continuing to think about their project.
 * Connect with your organizer to provide update on project status
 
-###### Week 4
+###### Week 4 (Feb 25 - Mar 3)
 * Connect face-to-face with stakeholder for SECOND time, tell them where you are in solving their business problem.
 * Brainstorm newbie tasks for your project.
 * Connect with your organizer to provide update on project status.
 
-###### Week 5
+###### Week 5 (Mar 4 - 10)
 * Create a readme in the rubyforgood github repo we have created for your project. This readme should give information about the organization and what we will be building for them. A good example readme can be seen [here](https://github.com/rubyforgood/habitat_humanity/).
 * Attend all-hands google hangout for 2019 team leads – a final check in to get your questions answered before the official event happens in one week.
 * Connect with your organizer to provide update on project status, as necessary.
 
-###### Week 6
+###### Week 6 (Mar 11 - 17)
 * Attend a team lead and stakeholder bbq day before the event
 * Ruby by the Bay 2019 begins!
 * Pitch your project to Ruby by the Bay attendees on opening night (5pm sharp): provide a brief intro to the organization, to the project, ask for specific technical skills if needed, communicate your team’s goals if you feel strongly about it (examples: deploy by end of event, emphasize team learning, master new gems, mandate pairing for all coding, explore new front end technologies, etc.)
 * Set team goals with your team. See above for inspiration.
 * Lead the team during the event.
 
-###### Week 7
+###### Week 7 (Mar 18 - 24)
 * Make plan to deploy with organizer.
 * Note that about 20% of our projects finish during the event—and we’re happy about that. We don’t want you or your team burning yourselves out. Ruby by the Bay is as much about building community as it is about doing good. If you work late into the evenings, you miss out on playing board games and werewolf and we want to see your face during these social times!
 
-###### Week 8
+###### Week 8-10 (Late March/Early April)
 * Connect with your organizer to update them on status.
 * Deploy; project will be finished and delivered.
 * Receive feedback on your mad team leading skillz.

@@ -22,11 +22,11 @@ Several of our projects could benefit from a weekend worth of gooding more than 
 
 ##### What skill level do I need to be to attend?
 
-All experience levels are definitely welcome! We have a wide variety of skill levels ranging from those who have next to no experience, all the way up to very senior people who work at places like Github and LivingSocial. The event is as much about learning as it is about building great things. Groups are very collaborative and you'll definitely have the opportunity to work closely with others and push a lot of code. :)
+All experience levels are definitely welcome! We have a wide variety of skill levels ranging from those who have next to no experience, all the way up to very senior people who work at places like Github, Heroku, and Optoro. The event is as much about learning as it is about building great things. Groups are very collaborative and you'll definitely have the opportunity to work closely with others and push a lot of code. :)
 
 ##### Do I need to be a programmer?
 
-We need both developers and designers at Ruby by the Bay.
+We need both developers and designers at Ruby by the Bay. If you have a different skill-set that you'd like to use <a href="mailto:{{ site.data.constants.contact_email }}">let us know</a>.
 
 ##### Do I need to be a Ruby programmer?
 
@@ -34,7 +34,7 @@ You don't HAVE to be a Ruby programmer but it does help. We're more than happy t
 
 ##### How do you choose projects?
 
-A lot of cold-calling/emailing individuals and organizations, soliciting suggestions from people we know, and from YOU in the community. We go through a process of vetting possible projects and select based on viability of completion, need, open-source status, and general impact on business functions.
+A lot of cold-calling/emailing individuals and organizations, soliciting suggestions from people we know, referrals from past non-profits we've helped, and from YOU in the community. We go through a process of vetting possible projects and select based on viability of completion, need, open-source status, and general impact on business functions.
 
 ##### What's an appropriate project?
 
@@ -50,7 +50,7 @@ This year projects are focused around issues facing our local communities and we
 
 ##### I want to lead a team. What do I do?
 
-During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late January with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby by the Bay. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. [You can read about the team lead process here](/team-leads).
+During registration we'll ask if you'd like to co-lead a team - say yes! We'll be in touch in mid-to-late January with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby by the Bay. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. [You can read about the team lead process here](/team-leads).
 
 ##### I don't know if I want to lead a team. What do I do?
 
