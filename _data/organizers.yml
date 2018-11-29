@@ -13,13 +13,6 @@
   twitter: jtu
   github: jtu0
   img: assets/img/gallery/jennifer_thumbnail.jpg
-- name: Stephanie Wilkinson
-  title: Organizer
-  pronouns: she/her
-  about: Builds software for schools by day, tries to make the world better always.
-  twitter: stephanieblack
-  github: stephaniewilkinson
-  img: assets/img/gallery/stephanie_thumbnail.jpeg
 - name: Kara Louie
   title: Organizer
   pronouns: she/her
@@ -27,10 +20,8 @@
   twitter: kahlouie
   github: kahlouie
   img: assets/img/gallery/kara_thumbnail.jpeg
-- name: Mannah Kallon
-  pronouns:
+- name: Polly Schandorf
   title: Organizer
-  about: Good at math, games, and gooding.
-  twitter: MannahKallon
-  github: kenikall
-  img: assets/img/gallery/mannah_thumbnail.png
+  pronouns: she/her
+  about: Serial good conference organizer: WeCamp, Python for Good, and now Ruby by the Bay!
+  img: assets/img/gallery/polly_thumbnail.jpeg
