@@ -3,7 +3,7 @@ layout: page
 ---
 ### Attending Ruby by the Bay
 
-Ruby by the Bay is an annual event based out of the SF bay area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2019 the event will take place in Bodega Bay at the UC Davis Marine Laboratory. Participants will stay in on-site housing with coding and socializing taking place in communal areas. Join us March 2019 for the fun of giving back!
+Ruby by the Bay is an annual event based out of the SF bay area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2019 the event will take place in a TBD location within 2 hours of the SF bay area. Participants will stay in on-site housing with coding and socializing taking place in communal areas. Join us March 2019 for the fun of giving back!
 
 ###### How Does Ruby by the Bay Work?
 

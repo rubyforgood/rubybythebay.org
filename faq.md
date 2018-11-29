@@ -18,7 +18,7 @@ Lots of organizations need the sort of technical help we can provide but are una
 
 ##### Why Ruby by the Bay?
 
-Several of our projects could benefit from a weekend worth of gooding more than once a year and we'd like to bring the Ruby for Good experience to more people more places.  And Bodega Bay is a stunningly beautiful location.
+Several of our projects could benefit from a weekend worth of gooding more than once a year and we'd like to bring the Ruby for Good experience to more people more places.
 
 ##### What skill level do I need to be to attend?
 
