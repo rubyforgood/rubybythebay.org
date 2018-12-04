@@ -85,8 +85,7 @@ Welcome! We’d love to have any out-of-towners arrive early. If you want to be 
 
 ##### Which airport should I fly into?
 
-The best airport is probably San Francisco International Airport (SFO), but if you are coming early we suggest coordinating with your host—they may live closer to a different airport (such as OAK). Both are within an hour's
-drive to the venue.
+The best airport is probably Oakland International (closer to our venue) but if you are coming early we suggest coordinating with your host—they may live closer to a different airport (such as SFO).  It takes about an hour to get from SFO to Oakland, and about two hours to get from Oakland to the venue.
 
 ##### Where do I park?
 
@@ -145,7 +144,7 @@ We have a limited number of scholarship tickets but are unable to provide transp
 
 ##### What do I need to bring?
 
-Bring yourself, your laptop, a power source, some clothes, bedsheets and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
+Bring yourself, your laptop, a powersource, layered clothes (expect daytime highs in the 50s F), and your favorite boardgames. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs. All the basics are provided (linens, pillows, beds, towels, etc.)
 
 ##### How do I get there?
 
@@ -159,7 +158,7 @@ During registration we ask if there's anything else you'd like us to know - indi
 
 ##### How do room assignments work?
 
-Lodging is in bunkhouses. You may choose to be assigned to an all-gender, all-male, or all-female bunkhouse at registration.
+Most of the rooming is double occupancy single beds. There are also a few rooms with a single queen sized bed, and a women-only bunkhouse. At registration, you will be given the opportunity to select the type of room you'd prefer, and if you have a specific roommate preference. After registration closes, for those who picked the standard double occupancy room, we will create random, same-gender room assignments (unless specifically requested otherwise via the registration form). We are tentatively planning to introduce you and your roomie via email so you know who you're staying with ahead of time. If you've neglected to indicate your roommate preference in the registration form, please drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.  Roommate requests must be mutual to be considered.
 
 ##### Do you have a code of conduct?
 
