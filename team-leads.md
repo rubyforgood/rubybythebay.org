@@ -12,7 +12,7 @@ Now for the details…
 
 #### What Does It Mean To Lead A Team?
 
-As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Ruby by the Bay organizers, pitching your project to Ruby by the Bay attendees, leading your team at the event on June 7-10, and then seeing the project through to completion.
+As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Ruby by the Bay organizers, pitching your project to Ruby by the Bay attendees, leading your team at the event on Mar 29 - Apr 1, and then seeing the project through to completion.
 
 #### What we expect from team leads:
 

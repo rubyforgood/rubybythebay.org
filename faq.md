@@ -114,13 +114,13 @@ The event costs money to put on. We try to raise as much as possible through spo
 
 TBA! Join our mailing list and follow us on Twitter.
 
-##### Do I really HAVE to get there by 5pm on Thursday?
+##### Do I really HAVE to get there by 5pm on Friday?
 
 Yeah, you really do. Teams will be chosen right around that time and you'll spend dinner meeting with your team, chatting about your projects, and getting your environments aligned. We've found the event is most successful, with the most buy-in, when teams are a cohesive bunch from the beginning.
 
-##### How early can I arrive on Thursday?
+##### How early can I arrive on Friday?
 
-Most of the organizing team is planning on arriving at 12pm but feel free to beat us there!
+Most of the organizing team is planning on arriving at 12pm but feel free to beat us there! There will be other, non gooder folks, on site so we'll need to stay out of their way!
 
 ##### How does food work?
 
@@ -137,15 +137,19 @@ So glad you asked! For expert insight, here are a couple of blog posts written u
 * http://alwaysbelearning.co/2014/08/05/ruby-for-good/
 * http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/
 * http://rolentle.com/ruby-for-good/
+* https://blog.homesnap.com/homesnap-terrastories-ruby-hack-thon
+* https://blog.mapbox.com/ruby-for-good-2018-61dd45a7fdb7
+* https://www.amazonteam.org/act-partakes-in-ruby-for-good-2018-to-develop-offline-geostorytelling-app-terrastories-for-remote-communities/
+
 
 ##### Do you have scholarships?
 
 We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the SF bay area on your own and a brief application form. We will announce when scholarship applications may be submitted.
-<!-- Apply for a scholarship [here](https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform). -->
+Apply for a scholarship [here](https://docs.google.com/forms/d/e/1FAIpQLSc0c4aKi6hNu3x4aj01ivypoGfXXtswAstMtc4fcyGbOLPG7w/viewform).
 
 ##### What do I need to bring?
 
-Bring yourself, your laptop, a power source, some clothes, bedsheets and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
+Bring yourself, your laptop, a power source, some clothes, pillow, sleeping bag, and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
 
 ##### How do I get there?
 
