@@ -30,7 +30,7 @@ The bunkhouses have hot water and are heated.
 
 ![Photo showing off view of the lagoon from the bunks](/images/naturebridge_bunks_and_view.jpg "Photo showing off view of the lagoon from the bunks"){:class="img-responsive"}
 
-Many of the bunks have fantastic views of the outdoors!  Some bunks have power outlets available; please let us know if you require a power outlet for your CPAP and we'll help make sure you get an appropriate bed.
+Many of the bunks have fantastic views of the outdoors!  Some bunks have power outlets available; please let us know if you require a power outlet and we'll do our best to help you get an appropriately placed bed.
 
 ![Photo of bunkhouse - many bunks in neat rows](/images/naturebridge_bunkhouse.jpg "Photo of bunkhouse - many bunks in neat rows"){:class="img-responsive"}
 
@@ -64,8 +64,7 @@ If you and/or your pair would like to get away, you can always check if wifi wil
 
 ![Photo of picnic benches overlooking the lagoon](/images/naturebridge_picnic_benches_above_lagoon.jpg "Photo of picnic benches overlooking the lagoon"){:class="img-responsive"}
 
-After dinner, if you're not into karaoke, pull up a seat at the firering!  No promises there won't be a rousing game of Werewolf happening by the fire though.
-
+After dinner, set the coding aside for a little while and get to know your fellow gooders!  Use the basketball or volleyball court, play board games, sing karaoke, or pull up a seat at the firering (no promises there won't be a rousing game of Werewolf happening by the fire though!).  Have another idea for a fun activity? Bring it along.  We've had great fun in the past with dance and yoga lessons, meditation, coloring books, and bubble parties all organized by attendees.
 ![Photo of a fire ring](/images/naturebridge_firering.jpg "Photo of a fire ring"){:class="img-responsive"}
 
 ###### How do I get there? What do you recommend for transportation?
