@@ -34,7 +34,7 @@ The space inside the bunkhouse runs on the tight side.  Please be considerate to
 
 **Important note:** The beautiful outdoors includes raccoons which love to break in and steal your food. Please talk with the organizers before bringing any food into the bunkhouse.
 
-We'll provide a bucket of earplugs, though please feel free to bring your own.
+We'll provide a bucket of earplugs, though please feel free to bring your own.  We have limited options for a snorers' room, but please talk with us if that's a concern.
 
 There is a small medicines-only fridge available; please talk with the organizers if you need access.
 
