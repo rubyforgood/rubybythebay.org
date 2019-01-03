@@ -19,6 +19,10 @@ NatureBridge is lucky enough to lease their space from the National Park Service
 
 ###### What will sleeping arrangements be like?
 We have four bunkhouses:
+* Non-binary people
+* Women's
+* Men's
+* All genders
 
 All bunkhouses have shockingly clean bathrooms attached.  Toilets are in stalls and showers have curtains.  Some of the spaces may have (coin-operated) laundry available.
 
@@ -82,6 +86,9 @@ For those coming by plane from the east coast, note that timezones are in your f
 * Games
 
 Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. Layers are great.
+
+###### I have more questions!
+Please ask away!  We'd love to update this page with any missing information.
 
 ![Photo of picnic benches by the lagoon](/images/naturebridge_picnic_benches_above_lagoon.jpg "Photo of picnic benches by the lagoon"){:class="img-responsive"}
 naturebridge_picnic_benches_by_lagoon.jpg
