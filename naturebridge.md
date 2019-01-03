@@ -19,6 +19,10 @@ NatureBridge is lucky enough to lease their space from the National Park Service
 
 ###### What will sleeping arrangements be like?
 We have four bunkhouses:
+* Non-binary people (Owl's Roost)
+* Women's (Heron)
+* Men's (Pelican)
+* All genders (Raven)
 
 All bunkhouses have shockingly clean bathrooms attached.  Toilets are in stalls and showers have curtains.  Some of the spaces may have (coin-operated) laundry available.
 
