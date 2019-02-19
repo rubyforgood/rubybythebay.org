@@ -36,7 +36,9 @@ Also — if you have a project in mind that you’d like to lead, [suggest a pro
 
 ###### Registering
 
-Ticket sale dates will be announced through our mailing list. Please join if you are interested! We are particularly interested in creating a diverse and inclusive space, and especially encourage those underrepresented in tech to join the event.
+[Tickets are on sale now!](https://ti.to/codeforgood/rubybythebay)
+
+We are particularly interested in creating a diverse and inclusive space, and especially encourage those underrepresented in tech to join the event. Want to help make the event more inclusive? invite others who will make the space welcoming, and [sponsor a scholarship recipient waitlisted for lack of funds](https://ti.to/codeforgood/rubybythebay) <3
 
 <!--Tickets go on sale April 4, 2016.
 

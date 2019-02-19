@@ -91,6 +91,5 @@ Historically weather has been between 40-70°F, so please bring clothes appropri
 Please ask away! We'd love to update this page with any missing information.
 
 ![Photo of picnic benches by the lagoon](/images/naturebridge_picnic_benches_above_lagoon.jpg "Photo of picnic benches by the lagoon"){:class="img-responsive"}
-naturebridge_picnic_benches_by_lagoon.jpg
 
 Please read our [Code of Conduct](/coc.html) prior to attending.

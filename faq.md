@@ -22,7 +22,7 @@ Several of our projects could benefit from a weekend worth of gooding more than 
 
 ##### What skill level do I need to be to attend?
 
-All experience levels are definitely welcome! We have a wide variety of skill levels ranging from those who have next to no experience, all the way up to very senior people who work at places like Github and LivingSocial. The event is as much about learning as it is about building great things. Groups are very collaborative and you'll definitely have the opportunity to work closely with others and push a lot of code. :)
+All experience levels are definitely welcome! We have a wide variety of skill levels -- some people have next to no experience in programming, some people have decades. But the same applies to other areas too! We have a wide variety of skill levels in pair programming, teaching, or product building -- and these don't necessarily correlate with years of programming experience. The event is as much about learning as it is about building great things. Groups are very collaborative and you'll definitely have the opportunity to work closely with others and push a lot of code. :)
 
 ##### Do I need to be a programmer?
 
@@ -46,11 +46,11 @@ Have a project you're jonesing to work on? <a href="https://docs.google.com/form
 
 ##### What ARE the projects this year?
 
-This year projects are focused around issues facing our local communities and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of February after registration closes.
+This year projects are focused around issues facing our local communities and we have some great organizations lined up! We'll announce project details, including available teams to join, the first night of the event.
 
 ##### I want to lead a team. What do I do?
 
-During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late January with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby by the Bay. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. [You can read about the team lead process here](/team-leads).
+During registration we'll ask if you'd like to lead a team - say yes! We'll match you with a project about 6-8 weeks before the event. We'll brief you on expectations and put you in touch with representatives from your project's organization so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby by the Bay. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. [You can read about the team lead process here](/team-leads).
 
 ##### I don't know if I want to lead a team. What do I do?
 
@@ -58,7 +58,7 @@ In general, leading a team entails connecting with stakeholders, initial archite
 
 ##### Do you allow remote teams at Ruby by the Bay or Ruby for Good?
 
-Unfortunately we're unable to accommodate remote teams this time around.
+Unfortunately we're unable to accommodate remote teams this time around. If there's interest, maybe we can start a meetup in the area after the event.  Come to Ruby by the Good and let's talk some evening over hot chocolate and a campfire!
 
 ##### How can I help?!
 
@@ -73,46 +73,46 @@ No. This is definitely not a hackathon. Sean cringes everytime someone mentions 
 
 ##### When do I need to purchase my tickets?
 
-By February 1 or when we sell out, whichever comes first!
+By March 25 or when we sell out, whichever comes first!
 
 ##### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
-After January 1 we will be unable to offer refunds but we will happily help coordinate exchanges until February 15. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+After January 1 we will be unable to offer refunds but we will happily help coordinate exchanges until March 15. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### I’m, or want to host, an out-of-towner…
 
-Welcome! We’d love to have any out-of-towners arrive early. If you want to be a tourist for a few days, we’ll find you somewhere to stay while you are here! If you are a local and have some extra space in your house for a Gooder to cozy up, either ping an organizer or join the #housing channel on slack.
+Welcome! We’d love to have any out-of-towners arrive early. If you want to be a tourist for a few days, we’ll find you somewhere to stay while you are here! If you are a local and have some extra space in your house for a Gooder to stay with you, either ping an organizer or join us on slack.
 
 ##### Which airport should I fly into?
 
-The best airport is probably San Francisco International Airport (SFO), but if you are coming early we suggest coordinating with your host—they may live closer to a different airport (such as OAK). Both are within an hour's
-drive to the venue.
+The best airport is probably San Francisco International Airport (SFO), but if you are coming early we suggest coordinating with your host—they may live closer to a different airport (such as OAK). Both are within an hour's drive to the venue.  SJC is about an hour from San Francisco/Oakland, so please plan to rent a car if you fly to SJC.
 
 ##### Where do I park?
 
-We’re still working with the venue and will let everyone know as soon as we do.
+There is parking at the venue!
 
 ##### Can we drink alcohol?
 
 Assuming you are of age, you are welcome to partake of fermented beverages. We do encourage moderation and require compliance with our [Code of Conduct](/coc) at all times.
 
+Please note that we are on federal lands, and federal law (*not* California law) takes precedence.
+
 ##### What fun extra stuff do you have planned?
 
-Anyone who has attended in the past knows that we do some really fun stuff when we’re not working hard helping the nonprofits; hikes, meditation sessions, dance class, and more. We’ve volun-told Casey (begged) to teach dancing again this year and in reverting back to childhood, Aaron is planning on doing some fun adult coloring and we’ve heard that there may even be some fun Ruby by the Bay themed coloring books too! If you have an idea for something you’d like to do or lead, jump into the #evening-fun channel on slack! Don’t worry, we’ll still have plenty of time for karaoke, werewolf, and the other standbys!
+Anyone who has attended in the past knows that we do some really fun stuff when we’re not working hard helping the nonprofits; hikes, meditation sessions, dance class, grown-up coloring books, and more. If you have an idea for something you’d like to do or lead, join us on slack! Don’t worry, we’ll still have plenty of time for karaoke, werewolf, and the other standbys!
 
-Note: the site is an active research facility, and has restrictions on where you can walk around. Please follow our hosts' instructions on where you wander!
-
-##### What do I do if I find a baby seal or otter?
-
-*Don't touch it. Leave it alone.* Its mother is probably out gathering food, and both animals will be very upset if you touch the animal. Please stay at least 20 feet away from wildlife.
+Our amazing [venue](/naturebridge) also has a campfire so we'll be able to do s'mores in the evenings!
 
 ##### What does my registration go toward?
 
-The event costs money to put on. We try to raise as much as possible through sponsorships and donations but so far this amount has been unable to cover the cost of venue, food, shirts, transportation, and other minutia. By charging a little, we're able to break even for the event.
+We are a break-even event.  Venue costs run about $330 per person -- and that's just for meals and lodging.  Snacks (like s'mores making!), earplugs, nametags, office supplies, and other minutia aren't included in that cost.  It turns out conferences require a lot of funds to put on!  Your registration fees go directly into funding the conference, and sponsorships (from organizations and individuals) help bring in our project partners and scholarship recipients.
+
+We have a number of amazing scholarship applicants on our waitlist now who we don't have the funds to bring in.
+If you'd like to help, [please consider making a donation to bring in our project partners and scholarship recipients](https://ti.to/codeforgood/rubybythebay)!
 
 ##### When do tickets go on sale?
 
-TBA! Join our mailing list and follow us on Twitter.
+[Tickets are on sale now! buy yours today -- and buy one for a friend or scholarship recipient!](https://ti.to/codeforgood/rubybythebay)
 
 ##### Do I really HAVE to get there by 5pm on Friday?
 
@@ -120,11 +120,11 @@ Yeah, you really do. Teams will be chosen right around that time and you'll spen
 
 ##### How early can I arrive on Friday?
 
-Most of the organizing team is planning on arriving at 12pm but feel free to beat us there! There will be other, non gooder folks, on site so we'll need to stay out of their way!
+Most of the organizing team is planning on arriving at 12pm but feel free to beat us there. There's some amazing hiking (of different levels of ease or difficulty) just a few minutes from the venue.
 
 ##### How does food work?
 
-All food is provided, you just need to bring yourself! We'll even provide snacks in the evenings when we're all socializing/playing games/werewolf!
+All food is provided, you just need to bring yourself! We'll also provide snacks in the evenings when we're all socializing/playing games/werewolf!
 
 ##### I'm a vegetarian/dairy-free/vegan/gluten-free/paleo/allergic to... will you feed me?
 
@@ -144,26 +144,27 @@ So glad you asked! For expert insight, here are a couple of blog posts written u
 
 ##### Do you have scholarships?
 
-We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the SF bay area on your own and a brief application form. We will announce when scholarship applications may be submitted.
-Apply for a scholarship [here](https://docs.google.com/forms/d/e/1FAIpQLSc0c4aKi6hNu3x4aj01ivypoGfXXtswAstMtc4fcyGbOLPG7w/viewform).
+We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the SF bay area on your own and a brief application form. Scholarship applications are now closed, but [it's not too late to fund a waitlisted scholarship applicant to go!](https://ti.to/codeforgood/rubybythebay)
 
 ##### What do I need to bring?
 
 Bring yourself, your laptop, a power source, some clothes, pillow, sleeping bag, and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
 
+Note that critter problems can be a problem, so please check in with an organizer if you brought food for proper storage.
+
+If you have medication that needs to go in a fridge, please check with an organizer for directions to the medications-only fridge.
+
+*Reminder* Our venue is located on federal lands and federal law (*not* California) applies.
+
 ##### How do I get there?
 
 We will collect information about carpooling at and after registration.
 <!-- We are collecting information about carpooling [here](https://docs.google.com/spreadsheets/d/1nq7XrtqABpowMnNPPVbcRShYPwgfveUjF4TZu5CdCIU/edit). Please fill out the form if you need a ride or can offer a ride and Kalimar will do his best to match people up! Contact Kalimar at kalimar@rubyforgood.org.  -->
-We will also be coordinating further in the #carpool channel in slack.
+We will also be coordinating further in slack.
 
-##### How do I indicate I want to room with my friend/significant other?
+##### How do room assignments work? How do I indicate I want to room with a particular person?
 
-During registration we ask if there's anything else you'd like us to know - indicate in this section who you'd like to room with and we'll make it happen. Make sure both parties indicate bilateral interest.
-
-##### How do room assignments work?
-
-Lodging is in bunkhouses. You may choose to be assigned to an all-gender, all-male, or all-female bunkhouse at registration.
+Lodging is in bunkhouses. You may choose to be assigned to an all-gender, all-male, or all-female bunkhouse at registration. We'll check in with you a little closer to the event for your preferences.
 
 ##### Do you have a code of conduct?
 
