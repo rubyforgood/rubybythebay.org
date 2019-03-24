@@ -40,7 +40,7 @@ $4,000
 - Thanks on Twitter
 - Mention at welcome announcements and on-site job fair
 - Option to pass out swag at the event
-- Can suggest 1 projects to be worked on at the event
+- Can suggest one project to be worked on at the event
 - Opening song dedicated to your company at one of the three karaoke evenings
 - Two tickets to attend the conference
 
@@ -61,7 +61,7 @@ $8,000
 - Recognition at on-site job fair introduction, including 30sec pitch during introduction
 - At one mealtime (breakfast, lunch, or dinner) on each of the three days we will give a shout out to your company and what you do
 - Option to pass out swag at the event
-- Can suggest 2 projects to be worked on at the event
+- Can suggest two projects to be worked on at the event
 - Three tickets to attend the conference
 
 </div>
@@ -78,7 +78,7 @@ Let us know what you're looking for - we'll customize a package for you
 - Name and URL included in email blasts to attendees
 - Recognition in the welcome announcements, including brief description of what you do
 - All our partner non-profits will express their thanks for your company on social media
-- Can suggest 3 projects to be worked on at the event
+- Can suggest three projects to be worked on at the event
 - Exclusive opportunity to address the attendees
 - Four tickets to attend the conference
 
@@ -98,7 +98,7 @@ Conference Clothing Sponsor
 
 - Name and URL included in email blasts to attendees
 - Recognition in the welcome announcements
-- Can suggest 1 topic to be worked on at the event.
+- Can suggest one topic to be worked on at the event.
 - Hugs on demand for life from the conference organizers
 - Two tickets to attend the conference
 
