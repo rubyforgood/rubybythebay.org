@@ -70,10 +70,10 @@ Unfortunately we're unable to accommodate remote teams this time around. If ther
 ##### Is this a hackathon?
 
 No. This is definitely not a hackathon. Sean cringes everytime someone mentions 'hackathon' and 'Ruby for Good' in the same sentence. (Try it.)
-
+<!--
 ##### When do I need to purchase my tickets?
 
-By March 25 or when we sell out, whichever comes first!
+By March 25 or when we sell out, whichever comes first! -->
 
 ##### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
@@ -100,8 +100,8 @@ Please note that we are on federal lands, and federal law (*not* California law)
 ##### What fun extra stuff do you have planned?
 
 Anyone who has attended in the past knows that we do some really fun stuff when we’re not working hard helping the nonprofits; hikes, meditation sessions, dance class, grown-up coloring books, and more. If you have an idea for something you’d like to do or lead, join us on slack! Don’t worry, we’ll still have plenty of time for karaoke, werewolf, and the other standbys!
-
-Our amazing [venue](/naturebridge) also has a campfire so we'll be able to do s'mores in the evenings!
+<!--
+Our amazing [venue](/naturebridge) also has a campfire so we'll be able to do s'mores in the evenings! -->
 
 ##### What does my registration go toward?
 
@@ -112,7 +112,8 @@ If you'd like to help, [please consider making a donation to bring in our projec
 
 ##### When do tickets go on sale?
 
-[Tickets are on sale now! buy yours today -- and buy one for a friend or scholarship recipient!](https://ti.to/codeforgood/rubybythebay)
+Very soon. We can't wait either! Let a friend know so you both can buy a ticket before we sell out.
+<!-- [Tickets are on sale now! buy yours today -- and buy one for a friend or scholarship recipient!](https://ti.to/codeforgood/rubybythebay) -->
 
 ##### Do I really HAVE to get there by 5pm on Friday?
 
@@ -128,12 +129,13 @@ All food is provided, you just need to bring yourself! We'll also provide snacks
 
 ##### I'm a vegetarian/dairy-free/vegan/gluten-free/paleo/allergic to... will you feed me?
 
-Absolutely.
+Absolutely. Let us know ahead of time so we can prepare for that! Last year the staff was so accommodating to folks with dietary needs.
 
 ##### What's it REALLY like at Ruby by the Bay?
 
-So glad you asked! For expert insight, here are a couple of blog posts written up by past Ruby for Good attendees:
+So glad you asked! For expert insight, here are a couple of blog posts written up by past Ruby for Good and Ruby by the Bay attendees:
 
+* https://chelseatroy.com/2019/04/02/behind-the-scenes-ruby-by-the-bay-civic-hack/
 * http://alwaysbelearning.co/2014/08/05/ruby-for-good/
 * http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/
 * http://rolentle.com/ruby-for-good/
