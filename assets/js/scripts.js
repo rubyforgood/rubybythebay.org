@@ -101,7 +101,7 @@
   var map = new mapboxgl.Map({
       container: 'canvas-map',
       style: 'mapbox://styles/kalimar/cjfjpo6ioa9vg2slg1pjbxt78',
-      center: [-122.535241, 37.832424],
+      center: [-122.564594, 37.969583],
       zoom: 11
   });
 
