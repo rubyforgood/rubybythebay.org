@@ -7,7 +7,7 @@ extra_js:
 
 ### Projects
 
-Here’s a list of the organizations and projects we’ve been able to help over the past years making the world a gooder place — if you have a great idea for a future project, let us know and <a href="/submit-project.html">suggest a project</a>.
+Here’s a list of the organizations and projects we’ve been able to help over the past years making the world a gooder place — if you have a great idea for a future project, let us know and <a href="{{site.data.constants.suggest_project}}">suggest a project</a>.
 
 #### 2017
 

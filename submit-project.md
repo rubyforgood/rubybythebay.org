@@ -1,4 +1,4 @@
 ---
 layout: page
-redirect_to: https://rubyforgood.org/submit-project.html
+redirect_to: {{site.data.constants.suggest_project}}
 ---

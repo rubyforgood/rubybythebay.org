@@ -30,7 +30,7 @@ We need both developers and designers at Ruby by the Bay.
 
 ##### Do I need to be a Ruby programmer?
 
-You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)  Sometimes we may have projects that use JavaScript or dev ops tools.
+We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)  And we are always happy to have more frontend experts join us (looking at you, JavaScript and CSS fans!).
 
 ##### How do you choose projects?
 
@@ -42,11 +42,12 @@ Good projects can be completed in about a weekend, help improve the efficiency o
 
 ##### How do I suggest a project?
 
-Have a project you're jonesing to work on? <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+Have a project you're jonesing to work on? <a href="{{site.data.constants.suggest_project}}"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
 
 ##### What ARE the projects this year?
 
-This year projects are focused around issues facing our local communities and we have some great organizations lined up! We'll announce project details, including available teams to join, the first night of the event.
+<!-- This year projects are focused around issues facing our local communities and we have some great organizations lined up!  -->
+We'll announce project details, including available teams to join, the first night of the event.
 
 ##### I want to lead a team. What do I do?
 
@@ -58,14 +59,15 @@ In general, leading a team entails connecting with stakeholders, initial archite
 
 ##### Do you allow remote teams at Ruby by the Bay or Ruby for Good?
 
-Unfortunately we're unable to accommodate remote teams this time around. If there's interest, maybe we can start a meetup in the area after the event.  Come to Ruby by the Good and let's talk some evening over hot chocolate and a campfire!
+Unfortunately we're unable to accommodate remote teams this time around. If there's interest, maybe we can start a meetup in the area after the event.  Come to Ruby by the Good and let's talk some evening over hot chocolate!
 
 ##### How can I help?!
 
 * Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
 * Lead a team - a great way to up your skills, especially if you've been programming for a while and are eager for the experience of leading a team.
-* Donations/Sponsors - we need lots of help with fundraising. The long weekend experience is expensive and we'd like to offer tickets to the wonderful folks who volunteer for as little as possible. This is only possible with donations and sponsors! Reach out to your employers to see if they would be willing to help us give back to our community. :)
-* Attendees - we need both developer and designer expertise!
+* Ask your employer for sponsorship - we need lots of help with fundraising. The long weekend experience is expensive and we'd like to offer tickets to the wonderful folks who volunteer for as little as possible. This is only possible with donations and sponsors! Please reach out to your employer to see if they would be willing to help us give back to our community, or talk with us about how to do this.
+* Donate - would you be willing to chip in to help bring more scholarship recipients to the event?  [We need your help.](https://ti.to/codeforgood/rubybythebay)
+* Spread the word - this event happens because of you, and we need both developer and designer expertise!  Please tell everyone about Ruby by the Bay.
 
 ##### Is this a hackathon?
 
@@ -95,7 +97,7 @@ There is parking at the venue!
 
 Assuming you are of age, you are welcome to partake of fermented beverages. We do encourage moderation and require compliance with our [Code of Conduct](/coc) at all times.
 
-Please note that we are on federal lands, and federal law (*not* California law) takes precedence.
+Please note that our venue has a strict non-smoking policy.
 
 ##### What fun extra stuff do you have planned?
 
@@ -105,9 +107,9 @@ Our amazing [venue](/naturebridge) also has a campfire so we'll be able to do s'
 
 ##### What does my registration go toward?
 
-We are a break-even event.  Venue costs run about $330 per person -- and that's just for meals and lodging.  Snacks (like s'mores making!), earplugs, nametags, office supplies, and other minutia aren't included in that cost.  It turns out conferences require a lot of funds to put on!  Your registration fees go directly into funding the conference, and sponsorships (from organizations and individuals) help bring in our project partners and scholarship recipients.
+We are a break-even event.  Venue costs run about $330 per person -- and that's just for meals and lodging.  Snacks (like s'mores making!), earplugs, nametags, office supplies, lost key fines, and other minutia aren't included in that cost.  It turns out conferences require a lot of funds to put on!  Your registration fees go directly into funding the conference, and sponsorships (from organizations and individuals) help bring in our project partners and scholarship recipients.
 
-We have a number of amazing scholarship applicants on our waitlist now who we don't have the funds to bring in.
+Every year we receive a number of amazing scholarship applicants who remain waitlisted until we have the funds to bring them in.
 If you'd like to help, [please consider making a donation to bring in our project partners and scholarship recipients](https://ti.to/codeforgood/rubybythebay)!
 
 ##### When do tickets go on sale?
@@ -125,11 +127,11 @@ Most of the organizing team is planning on arriving at 12pm but feel free to bea
 
 ##### How does food work?
 
-All food is provided, you just need to bring yourself! We'll also provide snacks in the evenings when we're all socializing/playing games/werewolf!
+We'll provide the supplies, and everyone will pitch in to cook and clean up.  Each team will be responsible for a different meal.  We'll also provide snacks in the evenings when we're all socializing/playing games/werewolf!
 
 ##### I'm a vegetarian/dairy-free/vegan/gluten-free/paleo/allergic to... will you feed me?
 
-Absolutely. Let us know ahead of time so we can prepare for that! Last year the staff was so accommodating to folks with dietary needs.
+Absolutely. Let us know ahead of time so we can prepare for that!
 
 ##### What's it REALLY like at Ruby by the Bay?
 
@@ -146,27 +148,25 @@ So glad you asked! For expert insight, here are a couple of blog posts written u
 
 ##### Do you have scholarships?
 
-We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the SF bay area on your own and a brief application form. Scholarship applications are now closed, but [it's not too late to fund a waitlisted scholarship applicant to go!](https://ti.to/codeforgood/rubybythebay)
+We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the SF bay area on your own and a brief application form.
+Scholarship applications are not yet open.
+[Please help us fund our scholarship applicants!](https://ti.to/codeforgood/rubybythebay)
 
 ##### What do I need to bring?
 
-Bring yourself, your laptop, a power source, some clothes, pillow, sleeping bag, and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
+Bring yourself, your laptop, a power source, linens (sleeping bag + pillow + towel), clothes (layers!), and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
 
-Note that critter problems can be a problem, so please check in with an organizer if you brought food for proper storage.
-
-If you have medication that needs to go in a fridge, please check with an organizer for directions to the medications-only fridge.
-
-*Reminder* Our venue is located on federal lands and federal law (*not* California) applies.
+*Reminder* Our venue has a strict non-smoking (of anything) policy.
 
 ##### How do I get there?
 
 We will collect information about carpooling at and after registration.
-<!-- We are collecting information about carpooling [here](https://docs.google.com/spreadsheets/d/1nq7XrtqABpowMnNPPVbcRShYPwgfveUjF4TZu5CdCIU/edit). Please fill out the form if you need a ride or can offer a ride and Kalimar will do his best to match people up! Contact Kalimar at kalimar@rubyforgood.org.  -->
 We will also be coordinating further in slack.
 
 ##### How do room assignments work? How do I indicate I want to room with a particular person?
 
-Lodging is in bunkhouses. You may choose to be assigned to an all-gender, all-male, or all-female bunkhouse at registration. We'll check in with you a little closer to the event for your preferences.
+Lodging is in double occupancy rooms (two single beds).
+Please reach out if you have any lodging requests, otherwise we will match you with a roommate of the same gender.
 
 ##### Do you have a code of conduct?
 
@@ -174,4 +174,4 @@ We are proud to have a <a href="/coc">code of conduct</a>.
 
 ##### Is this the first year of Ruby by the Bay?
 
-Yes! and we hope you can join us in the inaugural event!
+This is our SECOND year!  Come join us!
