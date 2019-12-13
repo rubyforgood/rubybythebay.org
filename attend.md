@@ -3,7 +3,7 @@ layout: page
 ---
 ### Attending Ruby by the Bay
 
-Ruby by the Bay is an annual event based out of the SF bay area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2020 the event will take place in {{site.data.constants.site_venue}}, California. Participants will stay in on-site housing with coding and socializing taking place in communal areas. Join us {{ site.data.constants.dates.start}} - {{ site.data.constants.dates.end}} for the fun of giving back!
+Ruby by the Bay is an annual event based out of the SF bay area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2020 the event will take place at {{site.data.constants.venue_name}} in {{site.data.constants.venue_location}}, California. Participants will stay in on-site housing with coding and socializing taking place in communal areas. Join us {{ site.data.constants.dates.start}} - {{ site.data.constants.dates.end}} for the fun of giving back!
 
 ###### How Does Ruby by the Bay Work?
 
@@ -34,12 +34,14 @@ Here is what actual attendees have written about Ruby for Good and Ruby by the B
 
 During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in January with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby by the Bay. Setup includes creating a github repo under the Ruby for Good github, filing issues to work off of during the event, and making some technology suggestions. If you want to know what it will be like to lead a team this year, [read our team lead guide](/team-leads.html). For an in-depth look at what it's like to lead a team, check out Brandon Rice's [blog](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-ruby-for-good/). If you're not sure and want to talk about it with an organizer? Drop us a [note](mailto:{{ site.data.constants.contact_email }}).
 
-Also — if you have a project in mind that you’d like to lead, [suggest a project](/submit-project.html) to work on!
+Also — if you have a project in mind that you’d like to lead, [suggest a project]({{site.data.constants.suggest_project}}) to work on!
 
 ###### Registering
 
-<!-- [Tickets are on sale now!](https://ti.to/codeforgood/rubybythebay) -->
-Tickets are not yet available, though you can [contribute to our scholarship fund now](https://ti.to/codeforgood/rubybythebay).  It costs about a few hundred dollars per scholarship recipient, and we rely on your help to make this event accessible to everyone.
+[Tickets are on sale now!](https://ti.to/codeforgood/rubybythebay)
+Please consider also [contributing to our scholarship fund now](https://ti.to/codeforgood/rubybythebay).  It costs about $400 per scholarship recipient, and we rely on your help to make this event accessible to everyone.
+
+<!-- Tickets are not yet available, though you can [contribute to our scholarship fund now](https://ti.to/codeforgood/rubybythebay).  It costs about a few hundred dollars per scholarship recipient, and we rely on your help to make this event accessible to everyone. -->
 
 We are particularly interested in creating a diverse and inclusive space, and especially encourage those underrepresented in tech to join the event. Want to help make the event more inclusive? invite others who will make the space welcoming, and [sponsor a scholarship recipient waitlisted for lack of funds](https://ti.to/codeforgood/rubybythebay) <3
 
