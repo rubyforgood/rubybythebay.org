@@ -3,7 +3,7 @@ layout: page
 ---
 ### Attending Ruby by the Bay
 
-Ruby by the Bay is an annual event based out of the SF bay area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2020 the event will take place in San Anselmo, California. Participants will stay in on-site housing with coding and socializing taking place in communal areas. Join us {{ site.data.constants.dates.start}} - {{ site.data.constants.dates.end}} for the fun of giving back!
+Ruby by the Bay is an annual event based out of the SF bay area where Ruby programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2020 the event will take place in {{site.data.constants.site_venue}}, California. Participants will stay in on-site housing with coding and socializing taking place in communal areas. Join us {{ site.data.constants.dates.start}} - {{ site.data.constants.dates.end}} for the fun of giving back!
 
 ###### How Does Ruby by the Bay Work?
 

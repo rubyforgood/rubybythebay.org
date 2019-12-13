@@ -42,7 +42,7 @@ Good projects can be completed in about a weekend, help improve the efficiency o
 
 ##### How do I suggest a project?
 
-Have a project you're jonesing to work on? <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+Have a project you're jonesing to work on? <a href="{{site.data.constants.suggest_project}}"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
 
 ##### What ARE the projects this year?
 

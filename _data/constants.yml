@@ -3,10 +3,12 @@
 dates:
   start: April 3
   end: April 6
-  start_day: Thursday
-  end_day: Sunday
+  start_day: Friday
+  end_day: Monday
   year: "2020"
-venue_name: "Redlands"
-address: 105 Seminary Rd, San Anselmo, CA 94960
+venue_name: "NatureBridge"
+venue_location: "the Golden Gate National Recreation Area"
+suggest_project: 'https://airtable.com/shrC6VjWgka26a6eh'
+address: 1033 Fort Cronkhite, Golden Gate National Recreation Area, Sausalito, CA 94965
 contact_email: "info@rubybythebay.org"
 cost: $500
