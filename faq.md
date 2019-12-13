@@ -154,7 +154,7 @@ Scholarship applications are not yet open.
 
 ##### What do I need to bring?
 
-Bring yourself, your laptop, a power source, clothes (layers!), and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
+Bring yourself, your laptop, a power source, linens (sleeping bag + pillow + towel), clothes (layers!), and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
 
 *Reminder* Our venue has a strict non-smoking (of anything) policy.
 
