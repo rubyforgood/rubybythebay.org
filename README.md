@@ -13,7 +13,7 @@ bundle install
 Then, run the site with `jekyll`:
 
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 
 The site will be available at [http://localhost:4000](http://localhost:4000).
