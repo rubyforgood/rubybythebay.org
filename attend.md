@@ -39,7 +39,7 @@ Also — if you have a project in mind that you’d like to lead, [suggest a pro
 ###### Registering
 
 [Tickets are on sale now!](https://ti.to/codeforgood/rubybythebay)
-Please consider also [contributing to our scholarship fund now](https://ti.to/codeforgood/rubybythebay).  It costs about $400 per scholarship recipient, and we rely on your help to make this event accessible to everyone.
+Please consider also [contributing to our scholarship fund now](https://ti.to/codeforgood/rubybythebay).  It costs about $330 per scholarship recipient, and we rely on your help to make this event accessible to everyone.
 
 <!-- Tickets are not yet available, though you can [contribute to our scholarship fund now](https://ti.to/codeforgood/rubybythebay).  It costs about a few hundred dollars per scholarship recipient, and we rely on your help to make this event accessible to everyone. -->
 

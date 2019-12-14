@@ -97,7 +97,7 @@ There is parking at the venue!
 
 Assuming you are of age, you are welcome to partake of fermented beverages. We do encourage moderation and require compliance with our [Code of Conduct](/coc) at all times.
 
-Please note that our venue has a strict non-smoking policy.
+Please note that we are on federal lands, and federal law (*not* California law) takes precedence.
 
 ##### What fun extra stuff do you have planned?
 
@@ -156,7 +156,11 @@ Scholarship applications are not yet open. But will be soon!
 
 Bring yourself, your laptop, a power source, linens (sleeping bag + pillow + towel), clothes (layers!), and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
 
-*Reminder* Our venue has a strict non-smoking (of anything) policy.
+Note that critter problems can be a problem, so please check in with an organizer if you brought food for proper storage.
+
+If you have medication that needs to go in a fridge, please check with an organizer for directions to the medications-only fridge.
+
+*Reminder* Our venue is located on federal lands and federal law (*not* California) applies.
 
 ##### How do I get there?
 
