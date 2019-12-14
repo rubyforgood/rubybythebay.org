@@ -55,7 +55,7 @@ As a team lead you will be connecting with a partner organization that has a non
 * Deploy; project will be finished and delivered.
 * Receive feedback on your mad team leading skillz.
 
-##### What team leads can expect from us?
+##### What can team leads expect from us?
 * We will ensure that the partner organization will work with you and be available for questions at the event.
 * We will make introductions between you and the partner organization.
 * It sucks to be at a roadblock so the organizer overseeing your project will provide multiple methods of contact and will commit to responding to any request within a day.

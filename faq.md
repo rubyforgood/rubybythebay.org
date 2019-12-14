@@ -72,10 +72,10 @@ Unfortunately we're unable to accommodate remote teams this time around. If ther
 ##### Is this a hackathon?
 
 No. This is definitely not a hackathon. Sean cringes everytime someone mentions 'hackathon' and 'Ruby for Good' in the same sentence. (Try it.)
-<!--
+
 ##### When do I need to purchase my tickets?
 
-By March 25 or when we sell out, whichever comes first! -->
+By March 25 or when we sell out, whichever comes first! We can't wait to see you.
 
 ##### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
@@ -102,8 +102,8 @@ Please note that our venue has a strict non-smoking policy.
 ##### What fun extra stuff do you have planned?
 
 Anyone who has attended in the past knows that we do some really fun stuff when we’re not working hard helping the nonprofits; hikes, meditation sessions, dance class, grown-up coloring books, and more. If you have an idea for something you’d like to do or lead, join us on slack! Don’t worry, we’ll still have plenty of time for karaoke, werewolf, and the other standbys!
-<!--
-Our amazing [venue](/naturebridge) also has a campfire so we'll be able to do s'mores in the evenings! -->
+
+Our amazing [venue](/naturebridge) also has a campfire so we'll be able to do s'mores in the evenings! Last year Jennifer made marshmallow performance art. Bet you can't top that this year!
 
 ##### What does my registration go toward?
 
@@ -114,8 +114,8 @@ If you'd like to help, [please consider making a donation to bring in our projec
 
 ##### When do tickets go on sale?
 
-Very soon. We can't wait either! Let a friend know so you both can buy a ticket before we sell out.
-<!-- [Tickets are on sale now! buy yours today -- and buy one for a friend or scholarship recipient!](https://ti.to/codeforgood/rubybythebay) -->
+<!-- Very soon. We can't wait either! Let a friend know so you both can buy a ticket before we sell out. -->
+[Tickets are on sale now! buy yours today -- and buy one for a friend or scholarship recipient!](https://ti.to/codeforgood/rubybythebay) Last year was so fun. Tell all your #rubyfriends!
 
 ##### Do I really HAVE to get there by 5pm on Friday?
 
@@ -149,7 +149,7 @@ So glad you asked! For expert insight, here are a couple of blog posts written u
 ##### Do you have scholarships?
 
 We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the SF bay area on your own and a brief application form.
-Scholarship applications are not yet open.
+Scholarship applications are not yet open. But will be soon!
 [Please help us fund our scholarship applicants!](https://ti.to/codeforgood/rubybythebay)
 
 ##### What do I need to bring?
