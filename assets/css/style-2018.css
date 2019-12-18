@@ -11,6 +11,7 @@ li.featured a { font-family: 'Roboto', sans-serif; font-weight: 300; font-style:
 strong { font-family: 'Roboto', sans-serif; font-weight: 600; font-style: normal; }
 
 .hero-big { font-family: 'Ubuntu', sans-serif; }
+.hero-medium { font-family: 'Papyrus', sans-serif; }
 
 /* Global & Helper */
 
@@ -119,6 +120,7 @@ hr.white { border-color: #F3AE9B; }
 #hero .hero-small .sep  { width: 15px; display: inline-block; }
 #hero .hero-small span.fa  { margin: 0px 10px 0px 0px; font-size: 20pt; top: -3px; }
 #hero .hero-big  { font-size: 100pt; text-transform: uppercase; line-height: 100px; margin-bottom: 25px;}
+#hero .hero-medium  { font-size: 50pt; font-weight: 800; text-transform: uppercase; line-height: 50px; margin-bottom: 25px; color: chartreuse}
 #hero .hero-normal { font-size: 22pt; margin: 15px 0px 40px 0px; }
 #hero .btn-3d { padding: 10px 17px 10px 17px; margin:0; }
 

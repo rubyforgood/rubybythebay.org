@@ -96,7 +96,7 @@ We can build software to help your organization achieve its mission. We bring so
 After you submit your project, we'll follow up with a conversation. We'll get in touch and determine how we can best help you. It may turn out that your best solution is to use something already out there and we'll help you with that.
 
 <div class="center btn-wrapper">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScfGdu_Tx5UFoQ8zC2LgMCUj46RTRmx0Sfj1I1VuTYmvzo1Zw/viewform" class="btn btn-sm btn-primary">Submit Your Project</a>
+<a href="https://airtable.com/shrC6VjWgka26a6eh" class="btn btn-sm btn-primary">Submit Your Project</a>
 </div>
 <br>
 Or [email us](mailto:{{ site.data.constants.contact_email }}) with questions.
