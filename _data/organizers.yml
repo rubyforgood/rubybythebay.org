@@ -1,10 +1,10 @@
 ---
 - name: Sean Marcia
   title: Founder
-  pronouns:
+  pronouns: he/him
   about: Came up with Ruby for Good, and it would not be possible without his hard work.
   twitter: seanmarcia
-  github: SeanMarcia
+  github: seanmarcia
   img: assets/img/gallery/sean_thumbnail.jpg
 - name: Jennifer Tu
   about: Does good things. Like return your puppy after it has been stolen. By her.
