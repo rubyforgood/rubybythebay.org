@@ -4,7 +4,7 @@ layout: page
 
 ### Venue information
 
-2019 Ruby by the Bay will be held March 28 - April 1 (Friday - Monday) at NatureBridge in Sausalito, California.
+2019 Ruby by the Bay will be held {{ site.data.constants.dates.start}} - {{ site.data.constants.dates.end}} ({{ site.data.constants.dates.start_day}} - {{ site.data.constants.dates.end_day}}) at NatureBridge in Sausalito, California.
 
 ![Aerial photo of venue next to the ocean](/images/naturebridge_from_above.jpg "Aerial photo of venue next to the ocean"){:class="img-responsive"}
 
@@ -20,16 +20,13 @@ NatureBridge is lucky enough to lease their space from the National Park Service
 
 ###### What will sleeping arrangements be like?
 
-We have four bunkhouses:
+We will be housed in multi-room bunkhouses.  There will be an all-women's, all-men's, and all-gender's room.  
 
-- Non-binary people
-- Women's
-- Men's
-- All genders
-
-All bunkhouses have shockingly clean bathrooms attached. Toilets are in stalls and showers have curtains. Some of the spaces may have (coin-operated) laundry available.
+All bunkhouses have shockingly clean bathrooms attached. Toilets are in stalls and showers have curtains. At least one bathroom and shower will be all-gender. Some of the spaces may have (coin-operated) laundry available.
 
 The bunkhouses have hot water and are heated.
+
+While we can't make any promises, we will do our best to accommodate snorers separately.  Please reach out if you have any questions or concerns around the lodging, so we can provide answers and update this page!
 
 ![Photo showing off view of the lagoon from the bunks](/images/naturebridge_bunks_and_view.jpg "Photo showing off view of the lagoon from the bunks"){:class="img-responsive"}
 
@@ -45,7 +42,10 @@ There is a small medicines-only fridge available; please talk with the organizer
 
 ![Photo of inside of dining hall. Buffet and several tables.](/images/naturebridge_dining_hall.jpg "Photo of inside of dining hall. Buffet and several tables."){:class="img-responsive"}
 
-Most meals will take place in the large dining hall. Most of the meals are buffet-style. There are many small-group tables and chairs. We'll be sharing the dining hall (and the venue) with one other organization during Ruby by the Bay.
+Please let us know your dietary restrictions at registration so we can share them with the dining staff. They make many delicious and healthy meals, and while they make no promises they have worked hard to help us accommodate dietary restrictions.
+
+Most meals will take place in the large dining hall. Most of the meals are buffet-style. 
+There are many small-group tables and chairs. We'll be sharing the dining hall (and the venue) with one other organization during Ruby by the Bay.
 
 The dining hall includes a small alcove inside if you'd like to be in a slightly more isolated space. Or consider taking your meal on their terrace?
 
@@ -68,7 +68,7 @@ After dinner, set the coding aside for a little while and get to know your fello
 
 ###### How do I get there? What do you recommend for transportation?
 
-There is ample parking but we strongly recommend you carpool. We usually help attendees self-organize rides in our Slack.
+There is ample parking but we strongly recommend you carpool. We will help attendees self-organize rides in our Slack.
 
 For those coming by plane, your two closest airports are SFO and OAK. NatureBridge is about an hour away from either airport.
 
