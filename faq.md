@@ -123,7 +123,7 @@ Yeah, you really do. Teams will be chosen right around that time and you'll spen
 
 ##### How early can I arrive on Friday?
 
-Most of the organizing team is planning on arriving at 12pm but feel free to beat us there. There's some amazing hiking (of different levels of ease or difficulty) just a few minutes from the venue.
+Most of the organizing team is planning on arriving at 2pm but feel free to beat us there. There's some amazing hiking (of different levels of ease or difficulty) just a few minutes from the venue.
 
 ##### How does food work?
 
@@ -169,8 +169,9 @@ We will also be coordinating further in slack.
 
 ##### How do room assignments work? How do I indicate I want to room with a particular person?
 
-Lodging is in double occupancy rooms (two single beds).
-Please reach out if you have any lodging requests, otherwise we will match you with a roommate of the same gender.
+Lodging is in bunkhouses. You may choose to be assigned to an all-gender, all-male, or all-female room at registration. We'll check in with you a little closer to the event for your preferences.
+
+[Read more about our venue here.](/naturebridge)
 
 ##### Do you have a code of conduct?
 
