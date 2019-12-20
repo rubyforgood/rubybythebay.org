@@ -38,7 +38,7 @@ A lot of cold-calling/emailing individuals and organizations, soliciting suggest
 
 ##### What's an appropriate project?
 
-Good projects can be completed in about a weekend, help improve the efficiency of a non-profit, and are open-source so we can help give back to the community. Have the beginnings of an idea? <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+Good projects can be completed in about a weekend, help improve the efficiency of a non-profit, and are open-source so we can help give back to the community. Have the beginnings of an idea? <a href="{{site.data.constants.suggest_project}}"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
 
 ##### How do I suggest a project?
 
@@ -63,7 +63,7 @@ Unfortunately we're unable to accommodate remote teams this time around. If ther
 
 ##### How can I help?!
 
-* Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+* Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="{{site.data.constants.suggest_project}}"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
 * Lead a team - a great way to up your skills, especially if you've been programming for a while and are eager for the experience of leading a team.
 * Ask your employer for sponsorship - we need lots of help with fundraising. The long weekend experience is expensive and we'd like to offer tickets to the wonderful folks who volunteer for as little as possible. This is only possible with donations and sponsors! Please reach out to your employer to see if they would be willing to help us give back to our community, or talk with us about how to do this.
 * Donate - would you be willing to chip in to help bring more scholarship recipients to the event?  [We need your help.](https://ti.to/codeforgood/rubybythebay)
@@ -107,7 +107,7 @@ Our amazing [venue](/naturebridge) also has a campfire so we'll be able to do s'
 
 ##### What does my registration go toward?
 
-We are a break-even event.  Venue costs run about $330 per person -- and that's just for meals and lodging.  Snacks (like s'mores making!), earplugs, nametags, office supplies, lost key fines, and other minutia aren't included in that cost.  It turns out conferences require a lot of funds to put on!  Your registration fees go directly into funding the conference, and sponsorships (from organizations and individuals) help bring in our project partners and scholarship recipients.
+We are a break-even event.  Venue costs run about $350 per person -- and that's just for meals and lodging.  Snacks (like s'mores making!), earplugs, nametags, office supplies, lost key fines, and other minutia aren't included in that cost.  It turns out conferences require a lot of funds to put on!  Your registration fees go directly into funding the conference, and sponsorships (from organizations and individuals) help bring in our project partners and scholarship recipients.
 
 Every year we receive a number of amazing scholarship applicants who remain waitlisted until we have the funds to bring them in.
 If you'd like to help, [please consider making a donation to bring in our project partners and scholarship recipients](https://ti.to/codeforgood/rubybythebay)!
@@ -149,7 +149,10 @@ So glad you asked! For expert insight, here are a couple of blog posts written u
 ##### Do you have scholarships?
 
 We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the SF bay area on your own and a brief application form.
-Scholarship applications are not yet open. But will be soon!
+<!-- Scholarship applications are not yet open. But will be soon! -->
+
+[Scholarship applications are open through the end of January. Apply and tell a friend!]({{ site.data.constants.scholarship_application}})
+
 [Please help us fund our scholarship applicants!](https://ti.to/codeforgood/rubybythebay)
 
 ##### What do I need to bring?
