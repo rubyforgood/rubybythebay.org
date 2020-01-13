@@ -41,7 +41,6 @@ $4,000
 - Mention at welcome announcements and on-site job fair
 - Option to pass out swag at the event
 - Can suggest one project to be worked on at the event
-- Opening song dedicated to your company at one of the three karaoke evenings
 - Two tickets to attend the conference
 
 </div>
