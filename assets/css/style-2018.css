@@ -504,6 +504,8 @@ label.error { display: block; }
   font-size: 18px; }
 #speakers .social-link a:Hover { opacity: 1; color:#e96958; border-color:#e96958; }
 
+#organizer-header { margin-bottom: 10rem; }
+
 .pricing-cols { margin-top: 30px; width: 100%; display: inline-block; border-collapse: collapse; margin-bottom: -20px; }
 .pricing-col {
   float: left;
