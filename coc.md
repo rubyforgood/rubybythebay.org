@@ -10,7 +10,7 @@ Diversity is one of our huge strengths, but it can also lead to communication is
 
 This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
-This code of conduct applies to all spaces managed by the Ruby by the Bay team or at NatureBridge. This includes IRC, Slack, the mailing lists, the issue tracker, Ruby by the Bay events, and any other forums created by the project team which the community uses for communication.
+This code of conduct applies to all spaces managed by the Ruby by the Bay team or at the venue. This includes IRC, Slack, the mailing lists, the issue tracker, Ruby by the Bay events, and any other forums created by the project team which the community uses for communication.
 
 Be welcoming, friendly, and patient. Be considerate. Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
 
@@ -26,7 +26,7 @@ Be careful in the words that you choose. We are a community of professionals, an
 - Unwelcome sexual attention.
 - Advocating for, or encouraging, any of the above behavior.
 - Repeated harassment of others. In general, if someone asks you to stop, then stop.
-- If you believe someone is violating the code of conduct, we ask that you report it by emailing [Polly Schandorf](mailto:polly@rubybythebay.org) or [Kara Louie](mailto:kara@rubybythebay.org). Any email received will be kept confidential. You may also reach out to any of the organizers in person.
+- If you believe someone is violating the code of conduct, we ask that you report it by emailing [Polly Schandorf](mailto:polly@rubybythebay.org) or [Jennifer ](mailto:jtu@rubybythebay.org). Any email received will be kept confidential. You may also reach out to any of the organizers in person.
 
 When we disagree, try to understand why. Disagreements, both social and technical, happen all the time and Ruby is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of Ruby comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere, rather offer to help resolving issues and to help learn from mistakes.
 

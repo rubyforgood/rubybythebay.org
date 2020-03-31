@@ -57,10 +57,6 @@ During registration we'll ask if you'd like to lead a team - say yes! We'll matc
 
 In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.). Still not sure and want to talk about it with an organizer? Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
-##### Do you allow remote teams at Ruby by the Bay or Ruby for Good?
-
-Unfortunately we're unable to accommodate remote teams this time around. If there's interest, maybe we can start a meetup in the area after the event.  Come to Ruby by the Good and let's talk some evening over hot chocolate!
-
 ##### How can I help?!
 
 * Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="{{site.data.constants.suggest_project}}"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
@@ -81,45 +77,14 @@ By March 25 or when we sell out, whichever comes first! We can't wait to see you
 
 After January 1 we will be unable to offer refunds but we will happily help coordinate exchanges until March 15. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
-##### I’m, or want to host, an out-of-towner…
-
-Welcome! We’d love to have any out-of-towners arrive early. If you want to be a tourist for a few days, we’ll find you somewhere to stay while you are here! If you are a local and have some extra space in your house for a Gooder to stay with you, either ping an organizer or join us on slack.
-
-##### Which airport should I fly into?
-
-The best airport is probably San Francisco International Airport (SFO), but if you are coming early we suggest coordinating with your host—they may live closer to a different airport (such as OAK). Both are within an hour's drive to the venue.  SJC is about an hour from San Francisco/Oakland, so please plan to rent a car if you fly to SJC.
-
-##### Where do I park?
-
-There is parking at the venue!
-
-##### Can we drink alcohol?
-
-Assuming you are of age, you are welcome to partake of fermented beverages. We do encourage moderation and require compliance with our [Code of Conduct](/coc) at all times.
-
-Please note that we are on federal lands, and federal law (*not* California law) takes precedence.
-
-##### What fun extra stuff do you have planned?
-
-Anyone who has attended in the past knows that we do some really fun stuff when we’re not working hard helping the nonprofits; hikes, meditation sessions, dance class, grown-up coloring books, and more. If you have an idea for something you’d like to do or lead, join us on slack! Don’t worry, we’ll still have plenty of time for karaoke, werewolf, and the other standbys!
-
-Our amazing [venue](/naturebridge) also has a campfire so we'll be able to do s'mores in the evenings! Last year Jennifer made marshmallow performance art. Bet you can't top that this year!
-
-##### What does my registration go toward?
-
-We are a break-even event.  Venue costs run about $350 per person -- and that's just for meals and lodging.  Snacks (like s'mores making!), earplugs, nametags, office supplies, lost key fines, and other minutia aren't included in that cost.  It turns out conferences require a lot of funds to put on!  Your registration fees go directly into funding the conference, and sponsorships (from organizations and individuals) help bring in our project partners and scholarship recipients.
-
-Every year we receive a number of amazing scholarship applicants who remain waitlisted until we have the funds to bring them in.
-If you'd like to help, [please consider making a donation to bring in our project partners and scholarship recipients](https://ti.to/codeforgood/rubybythebay)!
-
 ##### When do tickets go on sale?
 
 <!-- Very soon. We can't wait either! Let a friend know so you both can buy a ticket before we sell out. -->
-[Tickets are on sale now! buy yours today -- and buy one for a friend or scholarship recipient!](https://ti.to/codeforgood/rubybythebay) Last year was so fun. Tell all your #rubyfriends!
+[Tickets are on sale now! buy yours today](https://ti.to/codeforgood/rubybythebay) Last year was so fun. Tell all your #rubyfriends!
 
-##### Do I really HAVE to get there by 5pm on Friday?
+##### Do I really HAVE to be there by 5pm on Friday for kickoff?
 
-Yeah, you really do. Teams will be chosen right around that time and you'll spend dinner meeting with your team, chatting about your projects, and getting your environments aligned. We've found the event is most successful, with the most buy-in, when teams are a cohesive bunch from the beginning.
+Yeah, you really do. Teams will be chosen right around that time and you'll spend remainder of the time meeting with your team, chatting about your projects, and getting your environments aligned. We've found the event is most successful, with the most buy-in, when teams are a cohesive bunch from the beginning.
 
 ##### How early can I arrive on Friday?
 
@@ -144,37 +109,6 @@ So glad you asked! For expert insight, here are a couple of blog posts written u
 * https://blog.homesnap.com/homesnap-terrastories-ruby-hack-thon
 * https://blog.mapbox.com/ruby-for-good-2018-61dd45a7fdb7
 * https://www.amazonteam.org/act-partakes-in-ruby-for-good-2018-to-develop-offline-geostorytelling-app-terrastories-for-remote-communities/
-
-
-##### Do you have scholarships?
-
-We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the SF bay area on your own and a brief application form.
-<!-- Scholarship applications are not yet open. But will be soon! -->
-
-[Scholarship applications are open through the end of January. Apply and tell a friend!]({{ site.data.constants.scholarship_application}})
-
-[Please help us fund our scholarship applicants!](https://ti.to/codeforgood/rubybythebay)
-
-##### What do I need to bring?
-
-Bring yourself, your laptop, a power source, linens (sleeping bag + pillow + towel), clothes (layers!), and your favorite board games. Historically weather has been between 40-70°F, so please bring clothes appropriate for the weather. If you anticipate skipping group meals, bring some munchies. If you're a light sleeper, bring earplugs.
-
-Note that critter problems can be a problem, so please check in with an organizer if you brought food for proper storage.
-
-If you have medication that needs to go in a fridge, please check with an organizer for directions to the medications-only fridge.
-
-*Reminder* Our venue is located on federal lands and federal law (*not* California) applies.
-
-##### How do I get there?
-
-We will collect information about carpooling at and after registration.
-We will also be coordinating further in slack.
-
-##### How do room assignments work? How do I indicate I want to room with a particular person?
-
-Lodging is in bunkhouses. You may choose to be assigned to an all-gender, all-male, or all-female room at registration. We'll check in with you a little closer to the event for your preferences.
-
-[Read more about our venue here.](/naturebridge)
 
 ##### Do you have a code of conduct?
 
