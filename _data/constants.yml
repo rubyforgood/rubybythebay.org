@@ -1,12 +1,12 @@
 ---
 
 dates:
-  start: April 3
-  end: April 6
+  start: April 3rd
+  end: April 5th
   start_day: Friday
-  end_day: Monday
+  end_day: Sunday
   year: "2020"
-venue_name: "Virtual"
+venue_name: "virtual"
 venue_location: "the internet"
 suggest_project: 'https://airtable.com/shrC6VjWgka26a6eh'
 address: 1033 Fort Cronkhite, Golden Gate National Recreation Area, Sausalito, CA 94965
