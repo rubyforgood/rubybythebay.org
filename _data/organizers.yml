@@ -27,3 +27,10 @@
   twitter: N3rdyTeacher
   github: pollygee
   img: assets/img/gallery/polly_thumbnail.jpg
+- name: MK McKenzie
+  title: Organizer
+  pronouns: she/her
+  about: Writes rails code for a living. Tweets a lot.
+  twitter: MaryKMcKenzie
+  github: mkmckenzie
+  img: assets/img/gallery/mk_thumbnail.jpg
