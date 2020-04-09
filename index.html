@@ -292,27 +292,27 @@ layout: base
     <div class="overlay"></div>
     <div class="container">
         <div class="icon-wrap"><span class="icon icon-active icon-badges-votes-13"></span></div>
-        <h3>Our Organizers</h3>
-        <br/>
-        <br/>
+        <h3 id="organizer-header">Our Organizers</h3>
         <section class="row">
-            {% for person in site.data.organizers %}
-            <div class="col-sm-6 col-sm-6 col-sm-6 col-sm-6 col-sm-6">
-                <div class="speaker-item animated hiding" data-animation="fadeInUp" data-delay="0">
-                    <div class="img-wrapper">
-                        <img src="{{ person.img }}" class="img-speaker img-responsive img-circle"/>
+            <div class="flex-container">
+                {% for person in site.data.organizers %}
+                    <div class="col-sm-6">
+                        <div class="speaker-item animated hiding" data-animation="fadeInUp" data-delay="0">
+                            <div class="img-wrapper">
+                                <img src="{{ person.img }}" class="img-speaker img-responsive img-circle"/>
+                            </div>
+                            <div class="name">{{ person.name }}</div>
+                            <div class="small">{{ person.pronouns }}</div>
+                            <div class="sub">{{ person.title }}</div>
+                            <p class="small">{{ person.about }}</p>
+                            <div class="social-link">
+                                <a href="https://twitter.com/{{ person.twitter }}"><span class="fa fa-twitter"></span></a>
+                                <a href="https://github.com/{{ person.github }}"><span class="fa fa-github"></span></a>
+                            </div>
+                        </div>
                     </div>
-                    <div class="name">{{ person.name }}</div>
-                    <div class="small">{{ person.pronouns }}</div>
-                    <div class="sub">{{ person.title }}</div>
-                    <p class="small">{{ person.about }}</p>
-                    <div class="social-link">
-                        <a href="https://twitter.com/{{ person.twitter }}"><span class="fa fa-twitter"></span></a>
-                        <a href="https://github.com/{{ person.github }}"><span class="fa fa-github"></span></a>
-                    </div>
-                </div>
+                {% endfor %}
             </div>
-            {% endfor %}
         </section>
         <!--
         <div class="btn-wrapper">
